@@ -24,3 +24,7 @@ Object does not support method
 
 
 # To capture a failure, the detail message of an exception should contain the values of all parameters and fields that contributed to the exception. For example, the detail message of an IndexOutOfBoundsException should contain the lower bound, the upper bound, and the index value that failed to lie between the bounds. This information tells a lot about the failure. Any or all of the three values could be wrong. The index could be one less than the lower bound or equal to the upper bound (a “fencepost error”), 
+
+NOTES ON 12 FACTOR APP
+
+https://medium.com/@tech_18484/introduction-701b7a8f4730
